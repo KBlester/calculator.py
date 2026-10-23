@@ -37,17 +37,7 @@ Desenvolvedor Fullstack desde os 14 anos, com experiência prática em **JavaScr
 
 ## 📸 Preview
 
-```
-Calculadora Neon
-================
-[ Display Neon ]
-     0
-================
-[ 7 ] [ 8 ] [ 9 ] [ ÷ ]
-[ 4 ] [ 5 ] [ 6 ] [ × ]
-[ 1 ] [ 2 ] [ 3 ] [ - ]
-[ . ] [ 0 ] [ = ] [ + ]
-```
+![Calculadora Neon - Preview](assets/preview.png)
 
 ## 🚀 Como executar
 
@@ -57,27 +47,29 @@ Calculadora Neon
 ### Rodar localmente
 ```bash
 # Clone o repositório
-git clone https://github.com/KBlester/calculadora-neon.git
-cd calculadora-neon
+git clone https://github.com/KBlester/calculator.py.git
+cd calculator.py
 
 # Execute
-python calculadora/src/main.py
+python src/main.py
 ```
 
 Ou diretamente:
 ```bash
-python calculadora/src/main.py
+python src/main.py
 ```
 
 ## 🛠️ Estrutura do projeto
 
 ```
-calculadora/
+calculator.py/
 ├── src/
 │   ├── main.py        # Ponto de entrada da aplicação
 │   ├── calculator.py  # Lógica de cálculo (motor)
 │   ├── ui.py          # Interface gráfica (Tkinter)
 │   └── history.py     # Gerenciador de histórico persistente (JSON)
+├── assets/
+│   └── preview.png    # Imagem de preview
 ├── LICENSE            # Licença MIT
 ├── README.md          # Esta documentação
 ├── requirements.txt   # Dependências (apenas stdlib)
