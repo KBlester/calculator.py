@@ -20,16 +20,8 @@ Desenvolvido por **[Kalebe Santos](https://github.com/KBlester)** — Desenvolve
 
 Desenvolvedor Fullstack desde os 14 anos, com experiência prática em **JavaScript, TypeScript, React, Node.js, SQL e Python**. Atualmente focado em criar interfaces, APIs, integrações e sistemas completos.
 
-**Repositórios em destaque:**
-
-| Repositório | Descrição | Linguagem |
-|-------------|-----------|-----------|
-| [MuseHeart-MusicBot](https://github.com/KBlester/MuseHeart-MusicBot) | Bot de música em Python com player interativo, multi-bot, comandos slash e integração com Last.fm | Python |
-| [betplus](https://github.com/KBlester/betplus) | Projeto de cassino online | PHP |
-| [viper](https://github.com/KBlester/viper) | Plataforma de cassino online com Laravel e Filamentphp | PHP |
-| [jogos_2025](https://github.com/KBlester/jogos_2025) | Coleção de jogos | HTML |
-
 ---
+
 
 ## ✨ Destaques
 
