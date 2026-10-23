@@ -1,0 +1,2 @@
+# Esta calculadora usa apenas a biblioteca padrão do Python (tkinter).
+# Nenhuma dependência externa é necessária.
